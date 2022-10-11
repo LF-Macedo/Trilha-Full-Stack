@@ -1,0 +1,102 @@
+a{
+    text-decoration: black;
+    color: black;
+    
+    
+}
+
+.first-navegation h6{
+    margin-top: -35px;
+    color: gray;
+}
+
+.first-navegation p{
+    font-size: 11.7px;
+    margin-top: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10 px 10px 18.9px 106px;
+}
+
+.right-primary-navigation{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-top: -5.5rem;
+    margin-left: 119rem;
+}
+.right-primary-navigation p{
+    margin: 0.2rem;
+    font-size: 11.7px;
+}
+
+.first-main-navigation h4{
+    margin-top: 1.8rem;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2079c7;
+}
+
+.first-main-navigation h5{
+    margin: 0;
+}
+
+.first-main-navigation h6{
+    margin-top: 0rem;
+    color: gray;
+}
+
+.first-main-navigation p{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    
+}
+
+.top-main-navegation nav{
+    color: grey;
+    margin: 0rem 0rem 0rem 119.8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+
+}
+
+.top-main-navegation h4{
+    color: #2079c7;
+}
+
+.second-main-navegation h4{
+    color: #2079c7;
+    margin-top: -18rem;
+}
+
+.second-main-navegation h6{
+    color: gray;
+    margin: 0;
+}
+
+.second-main-navegation p{
+    margin: 0rem;
+}
+
+.right-second-main-navegation{
+    margin-top: 8rem;
+    margin-left: 1rem
+}
+
+.right-second-main-navegation img{
+    margin-top: 0.4rem;
+    margin-left: 119rem;
+}
+
+.right-second-main-navegation a{
+    margin-left: rem;
+}
+
+.footer-navegation h4{
+    color: #2079c7;
+    margin-top: -8rem;
+}
+
+.footer-navegation h5{
+    color: gray;
+    margin-top: -15px;
+}
