@@ -3,11 +3,14 @@ a{
     color: black;
 }
 
+/*
+DEIXAREI COMENTADO ATÉ ENCONTRAR SOLUÇÃÕ MAIS PLAUSÍVEL. ]
+
 body{
     overflow-x: hidden;
     overflow-y: hidden;
 }
-
+*/
 .first-navegation h6{
     margin-top: -35px;
     color: gray;
