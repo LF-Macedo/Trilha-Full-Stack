@@ -1,8 +1,11 @@
 a{
     text-decoration: black;
     color: black;
-    
-    
+}
+
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 .first-navegation h6{
@@ -21,7 +24,7 @@ a{
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
     margin-top: -5.5rem;
-    margin-left: 119rem;
+    margin-left: 100rem;
 }
 .right-primary-navigation p{
     margin: 0.2rem;
@@ -29,7 +32,7 @@ a{
 }
 
 .first-main-navigation h4{
-    margin-top: 1.8rem;
+    margin-top: 1.5rem;
     font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
     color: #2079c7;
@@ -53,7 +56,7 @@ a{
 
 .top-main-navegation nav{
     color: grey;
-    margin: 0rem 0rem 0rem 119.8rem;
+    margin: 0rem 0rem 0rem 100rem;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
 
@@ -65,7 +68,7 @@ a{
 
 .second-main-navegation h4{
     color: #2079c7;
-    margin-top: -16rem;
+    margin-top: -17rem;
 }
 
 .second-main-navegation h6{
@@ -79,24 +82,54 @@ a{
 
 .right-second-main-navegation{
     margin-top: 8rem;
-    margin-left: 1rem
+    margin-left: 0rem;
 }
 
 .right-second-main-navegation img{
     margin-top: 0.4rem;
-    margin-left: 119rem;
+    margin-left: 100rem;
 }
 
 .right-second-main-navegation a{
     margin-left: rem;
 }
 
+.footer-navegation p{
+    margin-top: 0rem;
+}
+
 .footer-navegation h4{
     color: #2079c7;
-    margin-top: -8rem;
+    margin-top: -9rem;
 }
 
 .footer-navegation h5{
     color: gray;
     margin-top: -15px;
+}
+
+.footer-line{
+    width: 1225rem;
+    height: 20px;
+    margin-left: -1rem;
+    background-color: gray;
+    margin-top: 5rem;
+    position: absolute;
+
+}
+.footer-background{
+    background-color: dimgray; 
+    margin-left: -1rem;
+    margin-top: 6rem;
+    width: 1225rem;
+    height: 1000rem;
+    position: absolute;
+}
+
+.footer-background p{
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 14px;
+    margin-top: 3rem;
+    margin-left: 48rem;
 }
